@@ -1,0 +1,17 @@
+[
+    {
+      "id": "info1",
+      "title": "Our Experience(Years)",
+      "info": 17
+    },
+    {
+      "id": "info2",
+      "title": "Trusted Patients",
+      "info": "50k"
+    },
+    {
+      "id": "info3",
+      "title": "Our Doctors",
+      "info": 1800
+    }
+  ]

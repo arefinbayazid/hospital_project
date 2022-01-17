@@ -1,0 +1,207 @@
+[
+  {
+    "id": 1,
+    "category": "Eye",
+    "totalDoctors": 15,
+    "title": "Secret to eye-catching",
+    "information": "People often read the same text more than once. Studying eye movements during multiple readings of the same texts provides a unique opportunity to observe the consistency of saccadic landing positions. Eye movements were recorded while 5 people read the same 4 texts more than 40 times, no more than 4 times/day, and never on consecutive trials. Other texts, read only once, were interspersed. Comprehension questions and a change-detection task helped maintain attention in the face of the repetition. There were two main findings: (1) repeated reading produced significant, but modest, changes in global saccadic patterns",
+    "profileImg": "https://i.ibb.co/BLVVNMt/eye.png",
+    "cover": "https://i.ibb.co/X5RXZXL/Promo-Facebook-Facebook-group-cover.jpg",
+    "reletedPhotoes": [
+      {
+        "itemID": "eye1",
+        "urlImage": "https://i.ibb.co/zPr3BsT/pikwizard-2ab9e769230c3850a20572e77587c889.jpg"
+      },
+      {
+        "itemID": "eye2",
+        "urlImage": "https://i.ibb.co/nCk623K/pikwizard-72881205be7d6ef17f0a137b81b663eb-1.jpg"
+      },
+      {
+        "itemID": "eye3",
+        "urlImage": "https://i.ibb.co/YZRQ2ZL/pikwizard-c0b36dc18edab7dd9beb5dea4f8ad6c9.jpg"
+      },
+      {
+        "itemID": "eye4",
+        "urlImage": "https://i.ibb.co/zPr3BsT/pikwizard-2ab9e769230c3850a20572e77587c889.jpg"
+      },
+      {
+        "itemID": "eye5",
+        "urlImage": "https://ibb.co/XSfcnkK"
+      },
+      {
+        "itemID": "eye6",
+        "urlImage": "https://ibb.co/ysRcRky"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "category": "Neurology",
+    "totalDoctors": 5,
+    "information": "A neurologist is a physician specializing in neurology and trained to investigate, or diagnose and treat neurological disorders.[2] Neurologists treat a myriad of neurologic conditions, including stroke, seizures, movement disorders such as Parkinson's disease, autoimmune neurologic disorders such as multiple sclerosis, headache disorders like migraine and dementias such as Alzheimer's disease.Many neurological disorders have been described as listed. These can affect the central nervous system (brain and spinal cord), the peripheral nervous system, the autonomic nervous system, and the muscular system. Broadly, neurology covers stroke, seizures, multiple sclerosis, headaches, dementia and movement disorders.",
+    "profileImg": "https://i.ibb.co/TvRnP2p/brain-and-head.png",
+    "cover": "https://i.ibb.co/9YdCNry/neuroscience-doctor-holding-clipboard-showing-treatment-against-brain-disease-patient-with-eeg-heads.jpg",
+    "reletedPhotoes": [
+      {
+        "itemID": "neurology1",
+        "urlImage": "https://i.ibb.co/Gc1dZJG/ezgif-com-gif-maker.jpg"
+      },
+      {
+        "itemID": "neurology2",
+        "urlImage": "https://i.ibb.co/hDm8FTd/Neurology-Consultants-Houston-693304072.jpg"
+      },
+      {
+        "itemID": "neurology3",
+        "urlImage": "https://i.ibb.co/yfdNnF0/vertebrae-physiotherapist-holding-artificial-spine.jpg"
+      },
+      {
+        "itemID": "neurology4",
+        "urlImage": "https://i.ibb.co/PzyzT4c/a-neurologist-looking-at-a-brain-scan.jpg"
+      },
+      {
+        "itemID": "neurology5",
+        "urlImage": "https://i.ibb.co/tZRwLMN/ezgif-com-gif-maker-1.jpg"
+      },
+      {
+        "itemID": "neurology6",
+        "urlImage": "https://i.ibb.co/G5vWtvw/Female-doctor-taking-male-patient-blood-pressure.jpg"
+      }
+    ]
+  },
+  {
+    "id": 3,
+    "category": "Dentristry",
+    "totalDoctors": 7,
+    "information": "Dentistry, also known as dental medicine and oral medicine, is a branch of medicine that consists of the study, diagnosis, prevention, and treatment of diseases, disorders, and conditions of the oral cavity (the mouth), commonly in the dentition (development and arrangement of teeth) as well as the oral mucosa, and of adjacent and related structures and tissues, particularly in associated maxillofacial (jaw and facial) area. The field of dentistry or dental medicine includes teeth as well as other aspects of the craniofacial complex including the temporomandibular joint and other supporting, muscular, lymphatic, nervous, vascular, and anatomical structures. The practitioner is called a dentist.",
+    "profileImg": "https://i.ibb.co/dm11786/dental-care.png",
+    "cover": "https://i.ibb.co/SySPBHX/110894880-gettyimages-1055182908.jpg",
+    "reletedPhotoes": [
+      {
+        "itemID": "dentristy1",
+        "urlImage": "https://i.ibb.co/fpPXr4Q/images2.jpg"
+      },
+      {
+        "itemID": "dentristy2",
+        "urlImage": "https://i.ibb.co/hsW4fmS/images.jpg"
+      },
+      {
+        "itemID": "dentristy3",
+        "urlImage": "https://i.ibb.co/VQ8QG2Q/i-Stock-1256362575.jpg"
+      },
+      {
+        "itemID": "dentristy4",
+        "urlImage": "https://i.ibb.co/8bQ8Z4Q/teeth-cleaning-in-Richmond-Hill.jpg"
+      },
+      {
+        "itemID": "dentristy5",
+        "urlImage": "https://i.ibb.co/X7GpDLg/featsmilingwomanblonde-scaled.jpg"
+      },
+      {
+        "itemID": "dentristy6",
+        "urlImage": "https://i.ibb.co/bLTHP74/Any-Conv-com-male-professional-dentist-with-gloves-mask-discuss-what-treatment-will-look-like-patien.jpg"
+      }
+    ]
+  },
+  {
+    "id": 4,
+    "category": "Homeopathy",
+    "totalDoctors": 10,
+    "information": "Homeopathic products come from plants (such as red onion, arnica [mountain herb], poison ivy, belladonna [deadly nightshade], and stinging nettle), minerals (such as white arsenic), or animals (such as crushed whole bees). Homeopathic products are often made as sugar pellets to be placed under the tongue; they may also be in other forms, such as ointments, gels, drops, creams, and tablets. minerals (such as white arsenic), or animals (such as crushed whole bees). Homeopathic products are often made as sugar pellets to be placed under the tongue.",
+    "profileImg": "https://i.ibb.co/tKqJ8p9/homeopathy.png",
+    "cover": "https://i.ibb.co/mHPQcRG/Homeopathic-Doctor.png",
+    "reletedPhotoes": [
+      {
+        "itemID": "homeopathy1",
+        "urlImage": "https://i.ibb.co/y85YVd4/a-variety-of-homeopathic-remedies-which-may-be-used-for-asthma.jpg"
+      },
+      {
+        "itemID": "homeopathy2",
+        "urlImage": "https://i.ibb.co/f8TwRk4/homeopath.jpg"
+      },
+      {
+        "itemID": "homeopathy3",
+        "urlImage": "https://i.ibb.co/gSCnz3c/istockphoto-92241589-612x612.jpg"
+      },
+      {
+        "itemID": "homeopathy4",
+        "urlImage": "https://i.ibb.co/h8sBnmc/image8s.jpg"
+      },
+      {
+        "itemID": "homeopathy5",
+        "urlImage": "https://i.ibb.co/vYzfggv/image5s.jpg"
+      },
+      {
+        "itemID": "homeopathy6",
+        "urlImage": "https://i.ibb.co/y85YVd4/a-variety-of-homeopathic-remedies-which-may-be-used-for-asthma.jpg"
+      }
+    ]
+  },
+  {
+    "id": 5,
+    "category": "Dermatology",
+    "totalDoctors": 9,
+    "information": "After earning a medical degree (M.D. or D.O.), the length of training in the United States for a general dermatologist to be eligible for board certification by the American Academy of Dermatology, American Board of Dermatology, or American Osteopathic Board of Dermatology is four years. This training consists of an initial medical, transitional, surgical, or pediatric intern year followed by a three-year dermatology residency.[2][11][12] Following this training, one- or two-year post-residency fellowships are available in immunodermatology, phototherapy, laser medicine, Mohs micrographic surgery, cosmetic surgery, dermatopathology, or pediatric dermatology. While these dermatology fellowships offer additional subspecialty training, many dermatologist proficiently provide these services without subspecialty fellowship training.",
+    "profileImg": "https://i.ibb.co/Ns9t4qK/spots.png",
+    "cover": "https://i.ibb.co/6Y3rTQK/shutterstock-635556728.jpg",
+    "reletedPhotoes": [
+      {
+        "itemID": "dermatology1",
+        "urlImage": "https://i.ibb.co/3v5d1BX/Dermatologist-doctor-applying-derma-pen-to-the-patient-s-face-in-her-clinic.jpg"
+      },
+      {
+        "itemID": "dermatology2",
+        "urlImage": "https://i.ibb.co/6vrFQZS/imag85es.jpg"
+      },
+      {
+        "itemID": "dermatology3",
+        "urlImage": "https://i.ibb.co/fVgTr0v/Newest-equipment-Nice-skilled-dermatologist-holding-a-dermatoscope-while-working-with-her-patient.jpg"
+      },
+      {
+        "itemID": "dermatology4",
+        "urlImage": "https://i.ibb.co/qjsS6nb/Professional-Cosmetic-Doctor.jpg"
+      },
+      {
+        "itemID": "dermatology5",
+        "urlImage": "https://i.ibb.co/M1Dcqzj/www-usnews-com.jpg"
+      },
+      {
+        "itemID": "dermatology6",
+        "urlImage": "https://i.ibb.co/YZ9QZm5/60130dbd4a4dcdcd36f3f825-doctor-persons-face.jpg"
+      }
+    ]
+  },
+  {
+    "id": 6,
+    "category": "Medicine",
+    "totalDoctors": 14,
+    "information": "If your office can convert even one potential patient through a referral, it would be wise to think about the longer term value of that patient and not just the value of one appointment. For example, a physical therapy patient will average eight appointments for reoccurring care, so if an average visit costs $100, your practice could be gaining $800 by converting a potential patient into an actual one. Getting a new patient to actually walk through the door can mean the difference between a long-term relationship or no relationship at all.",
+    "profileImg": "https://i.ibb.co/mzkQYyp/medicine.png",
+    "cover": "https://i.ibb.co/8D9vWXg/Vasodilators-02-04-2018-03-33-30-PM.jpg",
+    "reletedPhotoes": [
+      {
+        "itemID": "medicine1",
+        "urlImage": "https://i.ibb.co/dr1qRVW/prescription-drugs-in-hands.png"
+      },
+      {
+        "itemID": "medicine2",
+        "urlImage": "https://i.ibb.co/WP43N9k/allopathic-medicine-500x500.jpg"
+      },
+      {
+        "itemID": "medicine3",
+        "urlImage": "https://i.ibb.co/yBxg4XV/ima78ges.jpg"
+      },
+      {
+        "itemID": "medicine4",
+        "urlImage": "https://i.ibb.co/FDrQNFw/Any-Conv-com-medicine-bottles-tablets-wooden-desk-1387-420.jpg"
+      },
+      {
+        "itemID": "medicine5",
+        "urlImage": "https://i.ibb.co/kDZ9zVW/Any-Conv-com-medicine-bottles-pills-1160-370.jpg"
+      },
+      {
+        "itemID": "medicine6",
+        "urlImage": "https://i.ibb.co/C0tK0RC/Any-Conv-com-drugs.jpg"
+      }
+    ]
+  }
+]

@@ -1,0 +1,35 @@
+
+/* ============================
+    about us component styles
+===============================*/
+.about_us_home_box{
+    align-items: center;
+}
+.about_us_home_box h1{
+    width: 450px;
+    font-size: 50px;
+}
+.about_us_home_box p{
+    font-size: 18px;
+    width: 500px;
+    color: rgb(68, 68, 68);
+}
+
+/* --------------------------------
+    responsive about us comoponent
+    for mobile and tablet
+-----------------------------------*/
+@media only screen and (max-width : 991px) {
+    .about_us_home_box{
+        margin: 50px 0;
+    }
+    .about_us_home_box h1{
+        font-size: 40px;
+    }
+    .about_us_home_box h1, .about_us_home_box p{
+        width: 100%;
+    }
+    .img_about_box{
+        margin-top: 50px;
+    }
+}

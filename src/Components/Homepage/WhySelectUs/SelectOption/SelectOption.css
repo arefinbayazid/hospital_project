@@ -1,0 +1,15 @@
+.why_select_us_option_container{
+    box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.option_cotainer_image{
+    background-color: rgb(243, 243, 253);
+    width: 70px;
+    height: 70px;
+    border-radius: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}

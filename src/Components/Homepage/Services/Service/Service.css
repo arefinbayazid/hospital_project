@@ -1,0 +1,32 @@
+.service_cart{
+    padding: 10px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    background-image: url('https://i.ibb.co/8KLWqQq/border.png');
+    background-size: 25px;
+    background-repeat: no-repeat;
+    background-position: 95% 5%;
+    transition: background 0.5s;
+}
+.details_button{
+    border: 0;
+    outline: 0;
+    padding: 5px 10px;
+    font-weight: 500;
+    background-color: lightgray;
+    /* border-radius: 10px; */
+}
+.service_cart_info{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+}
+.service_cart:hover{
+    background-color: rgb(241, 241, 241);
+}
+.service_cart_info p{
+    font-size: 18px;
+}

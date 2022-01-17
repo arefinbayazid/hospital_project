@@ -1,0 +1,69 @@
+
+/* =======================
+    header component in 
+    home page style sheet
+==========================*/
+.header_box{
+    height: 100vh;
+    background-color: black;
+    background-image: url('https://i.ibb.co/Sm0ZjgW/resized-image-Promo-2.jpg');
+    background-size: cover;
+    display: flex;
+    align-items: flex-end;
+    justify-content: flex-start;
+    padding-bottom: 100px;
+}
+.wellcome_title_box{
+    width: 50%;
+}
+.wellcome_title{
+    position: relative;
+    padding-left: 60px;
+    font-size: 18px;
+    font-weight: 500;
+}
+.wellcome_title::after{
+    content: '';
+    height: 2px;
+    width: 50px;
+    position: absolute;
+    background-color: rgb(68, 68, 68);
+    top: 50%;
+    margin-top: -1px;
+    left: 0;    
+}
+.wellcome_title_box h1{
+    font-size: 60px;
+    font-weight: 700;
+}
+.wellcome_title_box p{
+    font-size: 18px;
+    font-weight: 500;
+    color: rgb(68, 68, 68);
+}
+.regular_button{
+    border: none;
+    outline: none;
+    font-size: 20px;
+    font-weight: 500;
+    padding: 10px 30px;
+    border-radius: 30px;
+    box-shadow: rgba(17, 12, 46, 0.15) 0px 48px 100px 0px;
+}
+
+
+/* --------------------------
+    responsive layout for 
+    mobile and tablet
+-----------------------------*/
+@media only screen and (max-width : 991px) {
+    .header_box{
+        background-size: unset;
+    }
+    .wellcome_title_box{
+        width: 100%;
+    }
+    .wellcome_title_box h1{
+        font-size: 40px;
+    }
+}

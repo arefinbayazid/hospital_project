@@ -1,0 +1,31 @@
+.doctors_container{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    column-gap: 15px;
+    row-gap: 15px;
+    padding-top: 82px;
+    margin-bottom: 45px;
+}
+.single_doctor_box{
+    overflow: hidden;
+}
+.single_doctor_box img {
+    width: 100%;
+    height: 350px;
+    object-fit: cover;
+    transition: transform 0.5s;
+}
+.single_doctor_box img:hover{
+    transform: scale(1.15);
+}
+
+@media only screen and (max-width : 576px ){
+    .doctors_container{
+        grid-template-columns: repeat(1, 1fr);
+    }
+}
+@media only screen and (max-width : 991px ) and (min-width : 577px){
+    .doctors_container{
+        grid-template-columns: repeat(2, 1fr);
+    }
+}

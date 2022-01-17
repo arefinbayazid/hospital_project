@@ -1,0 +1,81 @@
+
+/* ========================
+    navbar container styles
+===========================*/
+.account_btn{
+    display: flex;
+    align-items: center;
+    justify-content: flex-end;
+    width: 150px;
+}
+.navlink_container ul{
+    display: flex;
+    justify-content: center;
+}
+.navlink_container ul li{
+  font-size: 20px;
+  margin-right: 20px;
+  cursor: pointer;
+  transition: 0.5s;
+}
+li {
+    display: inline-block;
+    color: black;
+    text-decoration: none;
+}
+li::after {
+    content: '';
+    display: block;
+    width: 0;
+    height: 2px;
+    background: #0a6ef9;
+    transition: width .3s;
+}
+li:hover::after {
+    width: 100%;
+}
+.navbox_toggle_first{
+    background-color: rgb(255, 255, 255);
+    box-shadow: rgba(17, 12, 46, 0.15) 0px 48px 100px 0px;
+    position: fixed;
+    z-index: 100;
+}
+.navbox_toggle{
+    background-color: rgba(255, 255, 255, 0.472);
+    box-shadow: rgba(17, 12, 46, 0.15) 0px 48px 100px 0px;
+    position: fixed;
+    z-index: 100;
+}
+.top_out_navbar{
+    margin-top: -150px;
+}
+#navbar{
+    transition: 0.5s;
+    position: fixed;
+}
+a{
+    text-decoration: none;
+    color: initial;
+}
+a:hover{
+    color: initial;
+}
+.logo{
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif !important;
+    text-transform: uppercase;
+}
+
+/* --------------------
+    navbar responsive
+----------------------- */
+@media only screen and (max-width : 991px) {
+    .account_btn{
+        justify-content: flex-start;
+    }
+    #navbar{
+        padding: 10px 20px;
+    }
+    .navbar_full_cotainer{
+        width: 100%;
+    }
+}

@@ -1,0 +1,22 @@
+[
+  {
+    "id": "option1",
+    "imgUrl": "https://i.ibb.co/842DJMj/24-hours-1.png",
+    "info": "Booking patients back to back in neat 30-minute time slots looks good on a calendar but in the real world"
+  },
+  {
+    "id": "option2",
+    "imgUrl": "https://i.ibb.co/DrN5rsg/ambulance.png",
+    "info": "Back to back in neat 30-minute Booking patients time slots looks good on a calendar but in the world real"
+  },
+  {
+    "id": "option3",
+    "imgUrl": "https://i.ibb.co/tPzQ6h8/doctor.png",
+    "info": "Looks good on a calendar but in Booking patients back to back in neat 30-minute time slots looks good on a calendar but in the real world"
+  },
+  {
+    "id": "option4",
+    "imgUrl": "https://i.ibb.co/D80ZTK2/first-aid-kit-1.png",
+    "info": "In the real world Booking patients back to back in neat 30-minute time slots looks good on a but calendar"
+  }
+]

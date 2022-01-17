@@ -1,0 +1,133 @@
+
+/* ==========================
+    contact container styles
+=============================*/
+.contact_container{
+    height: 150vh;
+    display: flex;
+    flex-direction: column;
+    display: flex;
+    align-items: center;
+    padding: 100px 0 50px;
+    flex-wrap: wrap;
+}
+.contact_container_box{
+    width: 700px;
+}
+.contact_option{
+    display: flex;
+    align-items: center;
+    padding: 8px;
+    border: 1px solid lightgray;
+    flex-wrap: wrap;
+}
+.contact_option input{
+    border: none;
+    outline: none;
+}
+.contact_info_section{
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+}
+.contact_info_shortcut{
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    padding: 30px 50px 20px;
+}
+.contact_info_shortcut_child{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    padding: 30px;
+}
+.shortcut_child_bg{
+    box-shadow: rgba(17, 12, 46, 0.15) 0px 48px 100px 0px;
+    border-radius: 10px;
+}
+p{
+    margin-bottom: 0 ;
+}
+.contact_input_item{
+    width: 100%;
+}
+.contact_input_item p, .submission_contact_section  p{
+    margin-top: 10px;
+    margin-bottom: 5px;
+    font-weight: 500;
+}
+.contact_option{
+    border-radius: 5px;
+}
+.contact_option svg{
+    margin-right: 10px;
+}
+.submission_contact_section{
+    margin-left: 15px;
+}
+.submission_contact_section textarea{
+    outline: none;
+    border: none;
+    padding: 10px;
+    border: 1px solid lightgray;
+    resize: none;
+}
+svg{
+    color: #aa8b00;
+}
+.send_massage_btn{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.send_massage_btn button{
+    height: 40px;
+    padding: 5px 20px;
+    border: none;
+    font-weight: 500;
+    display: inline-block;
+    background-color: #e5e5e5;
+    transition: background-color 0.5s;
+}
+.send_massage_btn button:hover{
+    background-color: #d9d9ff;
+}
+textarea{
+    width: 350px;
+    height: 200px;
+    
+}
+
+/* ---------------------
+    responsive styles
+------------------------*/
+@media only screen  and (max-width : 911px){
+    .contact_container{
+        height: auto;
+    }
+    .contact_info_shortcut{
+        grid-template-columns: repeat(1, 1fr);
+        width: 100%;
+    }
+    .contact_info_section{
+        flex-direction: row;
+        flex-wrap: wrap;
+        width: 100%;
+        padding: 15px;
+    }
+    .contact_container_box{
+        width: 100%;
+        padding: 0;
+        
+    }
+    .submission_contact_section{
+        margin-left: 0;
+    }
+    .submission_contact_section textarea{
+        display: block;
+        width: 90vw;
+        height: 250px;
+        margin-left: 0;
+    }
+}

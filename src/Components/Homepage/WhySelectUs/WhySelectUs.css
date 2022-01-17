@@ -1,0 +1,19 @@
+
+/* ========================
+    why select us component 
+    styles
+===========================*/
+.why_select_container{
+    display: grid;
+    grid-template-columns: repeat(2, 1fr);
+    row-gap: 20px;
+    column-gap: 25px;
+}
+@media only screen and (max-width : 500px)  {
+    .why_select_container{
+        grid-template-columns: repeat(1, 1fr);
+    }
+    .why_selected_box h2{
+        margin-top: 50px;
+    }
+}
